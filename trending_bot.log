@@ -1,0 +1,8 @@
+2025-05-15 22:53:26,344 - INFO - Starting to fetch trending topics
+2025-05-15 22:53:29,316 - INFO - Successfully fetched 5 trending topics
+2025-05-15 22:53:30,724 - INFO - Fetched 3 images for topic: JAMB
+2025-05-15 22:53:32,110 - INFO - Fetched 1 images for topic: lamine yamal
+2025-05-15 22:53:33,434 - INFO - Fetched 0 images for topic: Chakam
+2025-05-15 22:53:34,552 - INFO - Fetched 0 images for topic: Shomolu
+2025-05-15 22:53:35,588 - INFO - Fetched 0 images for topic: Shomes
+2025-05-15 22:53:35,599 - INFO - Results saved to output\trending_nigeria_20250515_225335.json
